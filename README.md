@@ -1,2 +1,2 @@
-# ista-2022-junio-python
-Recursos para el curso Python como herramienta multipropósito 
+# Python como herramienta multipropósito
+En este repositorio se compartiran todos los recursos aplicables a las clases, así como las presentaciones y las grabaciones correspondientes.
