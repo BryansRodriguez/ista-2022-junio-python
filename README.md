@@ -1,4 +1,7 @@
 # Python como herramienta multipropósito
+
+<img src="https://user-images.githubusercontent.com/10412991/176553606-01b2bdc6-4cdd-457e-9fc4-1cfd481f60c2.png" width="250"/>
+
 En este repositorio se compartiran todos los recursos aplicables a las clases, así como las presentaciones y las grabaciones correspondientes.
 
 ## Información general
