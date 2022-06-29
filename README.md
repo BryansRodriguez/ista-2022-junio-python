@@ -1,2 +1,32 @@
 # Python como herramienta multipropósito
 En este repositorio se compartiran todos los recursos aplicables a las clases, así como las presentaciones y las grabaciones correspondientes.
+
+## Información general
+
+- [Rúbrica del curso](./documentos/documento-plan-curso.pdf)
+
+- [Sala de clases](https://us02web.zoom.us/j/82462635598?pwd=eUKUBrKGvTmbh6ufidAyZLN2q_KXoC.1)
+> En caso de ser necesario usar ID 824 6263 5598 y clave 54321
+
+## Recursos
+
+Los recursos aplicables a cada clase se compartirán en la tabla inferior, se recomienda usar [Google Translate](https://translate.google.com/?sl=en&tl=es&op=websites) cuando sea necesario traducirlas a español.
+
+
+## Clases Previas
+
+### Junio 29
+
+*Presentaciones*
+
+- [Introducción a la clase](./presentaciones/Clase1-IntroClase.pdf)
+- [Introducción a Python: Parte 1](./presentaciones/Clase1-IntroPython.pdf)
+
+> 🎥 Grabación aún no disponible
+
+*Recursos*
+
+- [Última versión de Python - Inglés](https://www.python.org/downloads/release/python-3100/)
+- [Introducción al uso de Python en Windows para principiantes](https://docs.microsoft.com/es-es/windows/python/beginners)
+- [Python y Visual Studio Code - Inglés](https://code.visualstudio.com/docs/languages/python)
+- [Aprende Python en Español](https://aprendepython.es/_downloads/907b5202c1466977a8d6bd3a2641453f/aprendepython.pdf)
