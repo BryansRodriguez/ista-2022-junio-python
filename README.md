@@ -25,7 +25,7 @@ Los recursos aplicables a cada clase se compartirán en la tabla inferior, se re
 - [Introducción a la clase](./presentaciones/Clase1-IntroClase.pdf)
 - [Introducción a Python: Parte 1](./presentaciones/Clase1-IntroPython.pdf)
 
-> 🎥 Grabación aún no disponible
+> 🎥 [Grabación](https://us02web.zoom.us/rec/share/f2PUwprWuq98e_rtaQSVxIuuUK4BpHfsJ6HEiTNJEdO0c7XLHxmME6iyZDLz9GSs.nKK0gSMW3srkNrjh)
 
 *Recursos*
 
