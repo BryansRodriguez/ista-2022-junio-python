@@ -33,3 +33,20 @@ Los recursos aplicables a cada clase se compartirán en la tabla inferior, se re
 - [Introducción al uso de Python en Windows para principiantes](https://docs.microsoft.com/es-es/windows/python/beginners)
 - [Python y Visual Studio Code - Inglés](https://code.visualstudio.com/docs/languages/python)
 - [Aprende Python en Español](https://aprendepython.es/_downloads/907b5202c1466977a8d6bd3a2641453f/aprendepython.pdf)
+
+### Junio 20
+
+*Presentaciones*
+
+- [Introducción a Python: Parte 2](./presentaciones/Clase2-IntroPython.pdf)
+
+> 💻 [Ejercicios de la clase](./ejemplos/clase2)
+
+> 🎥 [Grabación aún no disponible]()
+
+
+*Recursos*
+
+- [replit - Entorno online de desarrollo](https://replit.com/)
+- [Documentación Python 3.10 Español](https://docs.python.org/es/3/tutorial/)
+- [PEP8 Guía de Estilo en Python](https://elpythonista.com/pep-8)
