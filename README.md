@@ -34,7 +34,7 @@ Los recursos aplicables a cada clase se compartirán en la tabla inferior, se re
 - [Python y Visual Studio Code - Inglés](https://code.visualstudio.com/docs/languages/python)
 - [Aprende Python en Español](https://aprendepython.es/_downloads/907b5202c1466977a8d6bd3a2641453f/aprendepython.pdf)
 
-### Junio 20
+### Junio 30
 
 *Presentaciones*
 
