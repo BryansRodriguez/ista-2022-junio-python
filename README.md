@@ -42,7 +42,7 @@ Los recursos aplicables a cada clase se compartirán en la tabla inferior, se re
 
 > 💻 [Ejercicios de la clase](./ejemplos/clase2)
 
-> 🎥 [Grabación aún no disponible](https://us02web.zoom.us/rec/share/9mM9VeS0SUgsp9cWVD_n2rBTMEmjuL8Y1JIWWKzmwpFQa8HLe0CD1RX4QGGGV7TR.EMu64EvodBzzC8PW)
+> 🎥 [Grabación](https://us02web.zoom.us/rec/share/9mM9VeS0SUgsp9cWVD_n2rBTMEmjuL8Y1JIWWKzmwpFQa8HLe0CD1RX4QGGGV7TR.EMu64EvodBzzC8PW)
 
 
 *Recursos*
