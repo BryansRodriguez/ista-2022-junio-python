@@ -50,3 +50,20 @@ Los recursos aplicables a cada clase se compartirán en la tabla inferior, se re
 - [replit - Entorno online de desarrollo](https://replit.com/)
 - [Documentación Python 3.10 Español](https://docs.python.org/es/3/tutorial/)
 - [PEP8 Guía de Estilo en Python](https://elpythonista.com/pep-8)
+
+
+### Julio 01
+
+*Presentaciones*
+
+- [Módulos y Paquetes](./presentaciones/Clase3-Modulos.pdf)
+- [Tipos](./presentaciones/Clase3-Tipos.pdf)
+- [Github y Git](./presentaciones/Clase3-Github.pdf)
+
+> 💻 [Ejercicios de la clase](https://github.com/danoc93/ejemplo-basico)
+
+> 🎥 [Grabación aún no disponible]()
+
+*Recursos*
+
+- [Github](https://github.com/)
