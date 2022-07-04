@@ -11,6 +11,14 @@ En este repositorio se compartiran todos los recursos aplicables a las clases, a
 - [Sala de clases](https://us02web.zoom.us/j/82462635598?pwd=eUKUBrKGvTmbh6ufidAyZLN2q_KXoC.1)
 > En caso de ser necesario usar ID 824 6263 5598 y clave 54321
 
+## Proyecto
+
+⚠️⚠️⚠️⚠️
+
+El [proyecto](./proyecto) está disponible, el Jueves 07 de Julio tendremos una sección de preguntas en caso de dudas sobre los temas.
+
+*Fecha límite*: 15 Julio 23:59
+
 ## Recursos
 
 Los recursos aplicables a cada clase se compartirán en la tabla inferior, se recomienda usar [Google Translate](https://translate.google.com/?sl=en&tl=es&op=websites) cuando sea necesario traducirlas a español.
@@ -62,8 +70,22 @@ Los recursos aplicables a cada clase se compartirán en la tabla inferior, se re
 
 > 💻 [Ejercicios de la clase](https://github.com/danoc93/ejemplo-basico)
 
-> 🎥 [Grabación aún no disponible]()
+> 🎥 [Grabación](https://us02web.zoom.us/rec/share/BBKHuk1bHpJte3_NrXCaBK0M5CdQAY3fUvjs4NKUec-EWPOyyLAA-ERJGGPknsNM.4JAgu2Un0bSNi0nf)
 
 *Recursos*
 
 - [Github](https://github.com/)
+
+### Julio 04
+
+*Presentaciones*
+
+- [Entornos Virtuales, Testing, Chequeos](./presentaciones/Clase4-EntornosTestingChequeos.pdf)
+
+> 💻 [Ejercicios de la clase](./ejemplos/clase4)
+
+> 🎥 [Grabación aún no disponible]()
+
+*Recursos*
+
+- [Plataformas de Integración Continua](https://www.atlassian.com/es/continuous-delivery/continuous-integration)
