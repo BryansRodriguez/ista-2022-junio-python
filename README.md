@@ -83,9 +83,11 @@ Los recursos aplicables a cada clase se compartirán en la tabla inferior, se re
 - [Entornos Virtuales, Testing, Chequeos](./presentaciones/Clase4-EntornosTestingChequeos.pdf)
 
 > 💻 [Ejercicios de la clase](./ejemplos/clase4)
+> 💻 [Jupyter Notebook Ejemplo](https://colab.research.google.com/drive/1l_AAlaJu5LatK5OMqTARuphOJxx-_0Jm?usp=sharing)
 
 > 🎥 [Grabación aún no disponible]()
 
 *Recursos*
 
 - [Plataformas de Integración Continua](https://www.atlassian.com/es/continuous-delivery/continuous-integration)
+- [Google Colaboratory](https://colab.research.google.com/?utm_source=scs-index)
