@@ -21,9 +21,6 @@ deactivate
 def sumar(a, b):
     return a + b
 
-'''
-a, b =  2, 3
-'''
 def multiplicar(a, b):
     total = 0
     for i in range(0, b):
