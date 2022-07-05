@@ -86,7 +86,7 @@ Los recursos aplicables a cada clase se compartirán en la tabla inferior, se re
 
 > 💻 [Jupyter Notebook Ejemplo](https://colab.research.google.com/drive/1l_AAlaJu5LatK5OMqTARuphOJxx-_0Jm?usp=sharing)
 
-> 🎥 [Grabación aún no disponible]()
+> 🎥 [Grabación](https://us02web.zoom.us/rec/share/vTJMXOCfSyiAE37ntqvycYNop3R8NJcylzt1xIFzgpIloneL8CODhRbHqkprKdQW.WIYdI0dEhu0fqs_0)
 
 *Recursos*
 
