@@ -1,22 +1,15 @@
 {
-  "name": "ejemplo_basico",
+  "name": "clase5",
   "version": "1.0.0",
-  "description": "Un ejemplo basico de repositorio",
-  "main": "ejemplo.js",
+  "description": "",
+  "main": "analisis.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/danoc93/ejemplo-basico.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/danoc93/ejemplo-basico/issues"
-  },
-  "homepage": "https://github.com/danoc93/ejemplo-basico#readme",
   "dependencies": {
-    "fetch": "^1.1.0"
+    "node-fetch": "^3.2.6"
   }
 }
