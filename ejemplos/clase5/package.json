@@ -1,0 +1,22 @@
+{
+  "name": "ejemplo_basico",
+  "version": "1.0.0",
+  "description": "Un ejemplo basico de repositorio",
+  "main": "ejemplo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danoc93/ejemplo-basico.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danoc93/ejemplo-basico/issues"
+  },
+  "homepage": "https://github.com/danoc93/ejemplo-basico#readme",
+  "dependencies": {
+    "fetch": "^1.1.0"
+  }
+}

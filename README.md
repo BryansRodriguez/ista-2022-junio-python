@@ -92,3 +92,13 @@ Los recursos aplicables a cada clase se compartirán en la tabla inferior, se re
 
 - [Plataformas de Integración Continua](https://www.atlassian.com/es/continuous-delivery/continuous-integration)
 - [Google Colaboratory](https://colab.research.google.com/?utm_source=scs-index)
+
+### Julio 05
+
+*Presentaciones*
+
+- [Aplicaciones web y REst](./presentaciones/Clase5-RedesRESTyFlask.pdf)
+
+> 💻 [Ejercicios de la clase](./ejemplos/clase5)
+
+> 🎥 [Grabación no disponible]()
