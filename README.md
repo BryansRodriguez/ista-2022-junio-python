@@ -101,4 +101,18 @@ Los recursos aplicables a cada clase se compartirán en la tabla inferior, se re
 
 > 💻 [Ejercicios de la clase](./ejemplos/clase5)
 
+> 🎥 [Grabación](https://us02web.zoom.us/rec/share/MZdN-TNWGSW2jn020zBocjsHBVseK9ZLRvxBML8H_mUvRe-unWWxMEZAmVyZcFPM.kHYd9HgJBDoPRM9U)
+
+### Julio 06
+
+*Presentaciones*
+
+- [Introducción al Análisis de Datos](./presentaciones/Clase6-IntroAnalisisDatos.pdf)
+
+> 💻 [Jupyter Notebook Análisis](https://colab.research.google.com/drive/1IrOw8BkLzbvPPEmgsqOAhHKi_S9YI-4N?usp=sharing)
+
 > 🎥 [Grabación no disponible]()
+
+*Recursos*
+
+- [Análisis de Datos en Python - Wes McKinney](https://wesmckinney.com/book)
